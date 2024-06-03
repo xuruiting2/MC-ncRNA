@@ -1,4 +1,4 @@
-## MM-ncRNAFR: 
+## MM-ncRNAFP: 
 #### Multi-modal Contrastive Learning for ncRNA Family Prediction
 
 In this package, we provide the following resources: source codes of the MM-ncRNAFP, pre-trained model weights, and fine-tuning codes. The essential Python packages are listed in the `requirements.txt` file. Additionally, you need to run `pip install -e .` in the main folder. After downloading the [pre-trained model weights](https://drive.google.com/drive/folders/1rfM-aetoUutYp14efdtZdvliGnbW7zuy?usp=drive_link), place the folder in the main directory.
